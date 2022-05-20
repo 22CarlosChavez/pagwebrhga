@@ -1,2 +1,2 @@
-# pagwebrhga
-PAGINA WEB PARA LA EMPRESA RHGA
+# Blog-Cafe
+Proyecto gratuito para basarte en tu proyecto, en este caso realice un Blog de Café
