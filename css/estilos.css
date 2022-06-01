@@ -29,10 +29,17 @@ body{
 }
 a{
     text-decoration: none;
+    cursor: pointer;
 }
-a:hover{
+.navegacion__enlace:hover{
     /* text-decoration: und; */
     color: rgba(255, 255, 255, .6);
+}
+.correo_rhga{
+    color: var(--negro);
+}
+.correo_rhga:hover{
+    text-decoration: underline;
 }
 h1,h2,h3,h4{
     font-family: var(--fuenteHeading);
@@ -50,12 +57,22 @@ h3{
 h4{
     font-size: 2.8rem;
 }
+h5{
+    font-size: 2rem;
+}
 img{
     max-width: 100%;
+}
+p{
+    text-align: justify;
+}
+.nosotros_titulo{
+    text-align: center;
 }
     /* UTILIDADES */
 .no-margin{
     margin: 0;
+    text-align: center;
 }
 .no-padding{
     padding: 0;
