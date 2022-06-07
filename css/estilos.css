@@ -32,7 +32,6 @@ a{
     cursor: pointer;
 }
 .navegacion__enlace:hover{
-    /* text-decoration: und; */
     color: rgba(255, 255, 255, .6);
 }
 .correo_rhga{
@@ -127,6 +126,9 @@ p{
 }
 .logo__bold{
     font-weight: bold;
+}
+.logo__bold:hover{
+    color: rgba(255, 255, 255, .6);
 }
 @media (min-width: 768px) {
     .navegacion{
